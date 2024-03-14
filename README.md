@@ -7,7 +7,7 @@ Also has a function to see screen width in console in px and tailwind measures (
 
 Next steps: 
 
-1)Clone repository
+1) Clone repository
 
 2) Rename this project
 
