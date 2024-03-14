@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. (JS set)
 
-Currently, two official plugins are available:
+This template has already tailwind css instaled and setings done to work with.
+Also has a function to see screen width in console in px and tailwind measures (sm, md ,lg, etc) and settings done for bigger screens sizes breakpoints: 3xl, 4xl.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Next stepts: 
+1)Clone repository
+
+2) Rename this project
+
+3) npm install
+
+4) npm run dev 
+
+Happy codding !
